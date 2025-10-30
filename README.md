@@ -8,10 +8,30 @@ Perfil proativo, colaborativo e orientado a resultados, sempre em busca de apren
 
 ## 💻 Tecnologias & Skills
 
-**Front-End:** HTML · CSS · JavaScript · React(em estudo) · Angular(em estudo) · Design Responsivo · UX/UI  
-**Back-End / Full Stack:** Python · Java · APIs · SQL · MySQL · C                              
-**Ferramentas e DevOps:** Git · GitHub · Power BI · WordPress · Canva · Metricool  
-**Outros:** Automação Digital · Inteligências Artificiais · Projetos Multidisciplinares
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)
+
+**Outras Habilidades:**
+- Design Responsivo  
+- UX/UI  
+- APIs  
+- MySQL  
+- C  
+- Power BI  
+- WordPress  
+- Canva  
+- Metricool  
+- Automação Digital  
+- Inteligências Artificiais  
+- Projetos Multidisciplinares
 
 ---
 
@@ -48,3 +68,7 @@ Edição e manutenção de site em WordPress, criação de conteúdo multimídia
 
 Profissional analítica e colaborativa, apaixonada por **tecnologia, inovação e desenvolvimento de software**.  
 Focada em **resolver problemas reais**, criar **soluções escaláveis** e aplicar conhecimento em **projetos Web e Mobile** que gerem impacto positivo.
+
+---
+
+## 🌐 GitHub Pages
