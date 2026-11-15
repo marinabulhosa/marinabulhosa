@@ -1,9 +1,11 @@
 # Olá, eu sou a Marina 👋
 
-Graduanda em Ciência da Computação | UFF  
+Graduanda em Ciência da Computação | UFF 
 Apaixonada por tecnologia, desenvolvimento Web/Mobile e dados.  
 Perfil proativo, colaborativo e orientado a resultados, sempre em busca de aprendizado contínuo.
 
+📍 Rio das Ostras – RJ  
+🎯 Aberta a oportunidades de estágio ou posições júnior em Desenvolvimento de Sistemas, Tecnologia e Dados
 ---
 
 ## 💻 Tecnologias & Skills
@@ -25,14 +27,28 @@ Perfil proativo, colaborativo e orientado a resultados, sempre em busca de apren
 - APIs  
 - MySQL  
 - C  
-- Power BI  
+- Power BI
+- Excel e Google Sheets
 - WordPress  
 - Canva  
-- Metricool  
+- Metricool
+- Edição de vídeo e imagem (Adobe Premiere, CapCut, InShot)
 - Automação Digital  
 - Inteligências Artificiais  
 - Projetos Multidisciplinares
 
+**Soft Skills:**
+- Comunicação
+- Trabalho em equipe
+- Proatividade
+- Aprendizado autônomo
+- Organização
+- Resolução de problemas
+- Atendimento e suporte
+
+ **Idiomas:**
+- Inglês – intermediário
+- Espanhol – intermediário
 ---
 
 ## 🚀 Projetos em Destaque
@@ -45,6 +61,9 @@ Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de hi
 Edição e manutenção de site em WordPress, criação de conteúdo multimídia e suporte técnico para transmissões ao vivo.  
 **Tecnologias:** WordPress, Canva, Adobe, CapCut  
 
+### Precificação para Confeitaria
+Site responsivo para calcular o preço de produtos: cadastro de ingredientes e embalagens, custo proporcional e preço final, com um modo que explica o método de cálculo passo a passo e outro em que cada usuário escolhe como calcular.  
+**Tecnologias:** HTML, CSS, JavaScript
 ---
 
 ## 🏆 Certificações & Cursos
