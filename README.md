@@ -4,8 +4,9 @@ Graduanda em Ciência da Computação | UFF
 Apaixonada por tecnologia, desenvolvimento Web/Mobile e dados.  
 Perfil proativo, colaborativo e orientado a resultados, sempre em busca de aprendizado contínuo.
 
-📍 Rio das Ostras – RJ  
-🎯 Aberta a oportunidades de estágio ou posições júnior em Desenvolvimento de Sistemas, Tecnologia e Dados
+📍Rio das Ostras - RJ
+🎯Aberta a oportunidades de estágio ou posições júnior em Desenvolvimento de Sistemas, Tecnologia e Dados;
+
 ---
 
 ## 💻 Tecnologias & Skills
@@ -61,18 +62,22 @@ Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de hi
 Edição e manutenção de site em WordPress, criação de conteúdo multimídia e suporte técnico para transmissões ao vivo.  
 **Tecnologias:** WordPress, Canva, Adobe, CapCut  
 
-### Precificação para Confeitaria
-Site responsivo para calcular o preço de produtos: cadastro de ingredientes e embalagens, custo proporcional e preço final, com um modo que explica o método de cálculo passo a passo e outro em que cada usuário escolhe como calcular.  
-**Tecnologias:** HTML, CSS, JavaScript
+### PetFriends - Web(em construção)
+Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de histórico e recomendações personalizadas.  
+**Tecnologias:** HTML, CSS, JavaScript, React, APIs  
+
+### Radar de Vagas
+Um fluxo no n8n que lê meus e-mails de alerta de vagas, avalia cada oportunidade com IA e me avisa só sobre as que combinam com o meu perfil.
+**Tecnologias:** n8n, Gemini API, Gmail, Google Sheets, Telegram Bot, JavaScript
+
+  
 ---
 
 ## 🏆 Certificações & Cursos
 
 - Curso de Programação – Onbyte (HTML, CSS, JS, Java, Python, Programador Mobile, Java Web)  
 - PULE – Programa de Universalização em Línguas Estrangeiras (Inglês – 270h)  
-- UI/UX Design e Design Responsivo  
-- Git e GitHub – versionamento e colaboração  
-- Power BI, Metricool e Canva – análise, automação e criação de conteúdo digital  
+- Git e GitHub – em andamento 
 
 ---
 
@@ -91,3 +96,5 @@ Focada em **resolver problemas reais**, criar **soluções escaláveis** e aplic
 ---
 
 ## 🌐 GitHub Pages
+
+- Portifólio: [https://marinabulhosa.github.io/portifolio/](https://marinabulhosa.github.io/portifolio/)
