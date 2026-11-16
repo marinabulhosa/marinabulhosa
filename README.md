@@ -53,19 +53,19 @@ Perfil proativo, colaborativo e orientado a resultados, sempre em busca de apren
 - Espanhol – intermediário
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque  
 
 ### PetFriends - Web(em construção)
-Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de histórico e recomendações personalizadas.  
+Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de histórico e recomendações personalizadas.    
 **Tecnologias:** HTML, CSS, JavaScript, React, APIs  
 
 ### [21 Dias de Ativismo Contra o Racismo - Site](https://21diasdeativismocontraoracismo.com/)
-Edição e manutenção de site em WordPress, criação de conteúdo multimídia e suporte técnico para transmissões ao vivo.  
+Edição e manutenção de site em WordPress, criação de conteúdo multimídia e suporte técnico para transmissões ao vivo.    
 **Tecnologias:** WordPress, Canva, Adobe, CapCut  
 
-### PetFriends - Web(em construção)
-Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de histórico e recomendações personalizadas.  
-**Tecnologias:** HTML, CSS, JavaScript, React, APIs  
+### Precificador Saborê - Web
+Site responsivo que calcula o preço de doces de confeitaria evitando esquecer custos escondidos, como perda, mão de obra, luz e gás.  
+**Tecnologias:** HTML, CSS, JavaScript  
 
 ### Radar de Vagas
 Um fluxo no n8n que lê meus e-mails de alerta de vagas, avalia cada oportunidade com IA e me avisa só sobre as que combinam com o meu perfil.
@@ -78,14 +78,15 @@ Um fluxo no n8n que lê meus e-mails de alerta de vagas, avalia cada oportunidad
 
 - Curso de Programação – Onbyte (HTML, CSS, JS, Java, Python, Programador Mobile, Java Web)  
 - PULE – Programa de Universalização em Línguas Estrangeiras (Inglês – 270h)  
-- Git e GitHub – em andamento 
+
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/marina-bulhosa-dev](https://www.linkedin.com/in/marina-bulhosa-dev)  
-- E-mail: marinabulhosa@id.uff.br  
+- LinkedIn: [(https://www.linkedin.com/in/marinabulhosa/)](https://www.linkedin.com/in/marinabulhosa/))  
+- E-mail: marinabulhosa@id.uff.br
+- E-mail: marinabulhosa@gmail.com
 
 ---
 
