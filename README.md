@@ -54,7 +54,7 @@ Perfil proativo, colaborativo e orientado a resultados, sempre em busca de apren
 
 ## 🚀 Projetos em Destaque  
 
-### PetFriends - Web(em construção)
+### PetFriends (em construção)
 Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de histórico e recomendações personalizadas.    
 **Tecnologias:** HTML, CSS, JavaScript, React, APIs  
 
@@ -62,13 +62,17 @@ Aplicativo para tutores de pets, com funcionalidades de cadastro, controle de hi
 Edição e manutenção de site em WordPress, criação de conteúdo multimídia e suporte técnico para transmissões ao vivo.    
 **Tecnologias:** WordPress, Canva, Adobe, CapCut  
 
-### Precificador Saborê - Web
+### Precificador Saborê
 Site responsivo que calcula o preço de doces de confeitaria evitando esquecer custos escondidos, como perda, mão de obra, luz e gás.  
 **Tecnologias:** HTML, CSS, JavaScript  
 
 ### Radar de Vagas
-Um fluxo no n8n que lê meus e-mails de alerta de vagas, avalia cada oportunidade com IA e me avisa só sobre as que combinam com o meu perfil.
-**Tecnologias:** n8n, Gemini API, Gmail, Google Sheets, Telegram Bot, JavaScript
+Um fluxo no n8n que lê meus e-mails de alerta de vagas, avalia cada oportunidade com IA e me avisa só sobre as que combinam com o meu perfil.      
+**Tecnologias:** n8n, Gemini API, Gmail, Google Sheets, Telegram Bot, JavaScript    
+
+### Voz do Cliente
+Dashboard que transforma milhares de avaliações de restaurantes em decisões, com sentimento, categoria e plano de ação.      
+**Tecnologias:** Python, IA, Dashboard    
 
   
 ---
