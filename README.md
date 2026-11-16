@@ -1,12 +1,11 @@
 # Olá, eu sou a Marina 👋
 
-Graduanda em Ciência da Computação | UFF 
-Apaixonada por tecnologia, desenvolvimento Web/Mobile e dados.  
-Perfil proativo, colaborativo e orientado a resultados, sempre em busca de aprendizado contínuo.
+Graduanda em Ciência da Computação | UFF   
+Apaixonada por tecnologia, desenvolvimento Web/Mobile e dados.    
+Perfil proativo, colaborativo e orientado a resultados, sempre em busca de aprendizado contínuo.  
 
-📍Rio das Ostras - RJ
-
-🎯Aberta a oportunidades de estágio ou posições júnior em Desenvolvimento de Sistemas, Tecnologia e Dados;
+📍Rio das Ostras - RJ  
+🎯Aberta a oportunidades de estágio ou posições júnior em Desenvolvimento de Sistemas, Tecnologia e Dados    
 
 ---
 
