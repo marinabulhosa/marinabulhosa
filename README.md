@@ -109,3 +109,4 @@ Focada em **resolver problemas reais**, criar **soluções escaláveis** e aplic
 ## 🌐 GitHub Pages
 
 - Portifólio: [https://marinabulhosa.github.io/portifolio/](https://marinabulhosa.github.io/portifolio/)
+ /verificando erros de redirecionamento do código/
