@@ -93,7 +93,8 @@ Dashboard que transforma milhares de avaliações de restaurantes em decisões, 
 
 ## 📫 Contato
 
-- LinkedIn: [(https://www.linkedin.com/in/marinabulhosa/)](https://www.linkedin.com/in/marinabulhosa/))  
+- LinkedIn: [(https://www.linkedin.com/in/marinabulhosa/)]
+- (https://www.linkedin.com/in/marinabulhosa/)
 - E-mail: marinabulhosa@id.uff.br
 - E-mail: marinabulhosa@gmail.com
 
@@ -108,5 +109,5 @@ Focada em **resolver problemas reais**, criar **soluções escaláveis** e aplic
 
 ## 🌐 GitHub Pages
 
-- Portifólio: [https://marinabulhosa.github.io/portifolio/](https://marinabulhosa.github.io/portifolio/)
- /verificando erros de redirecionamento do código/
+- Portifólio: [https://marinabulhosa.github.io/portifolio/](https://marinabulhosa.github.io/portifolio/)            
+  /verificando erros de redirecionamento do código/
