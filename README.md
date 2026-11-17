@@ -93,8 +93,7 @@ Dashboard que transforma milhares de avaliações de restaurantes em decisões, 
 
 ## 📫 Contato
 
-- LinkedIn: [(https://www.linkedin.com/in/marinabulhosa/)]
-- (https://www.linkedin.com/in/marinabulhosa/)
+- LinkedIn: (https://www.linkedin.com/in/marinabulhosa/)
 - E-mail: marinabulhosa@id.uff.br
 - E-mail: marinabulhosa@gmail.com
 
