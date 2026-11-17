@@ -67,16 +67,18 @@ Edição e manutenção de site em WordPress, criação de conteúdo multimídia
 ### Precificador Saborê
 Site responsivo que calcula o preço de doces de confeitaria evitando esquecer custos escondidos, como perda, mão de obra, luz e gás.  
 **Tecnologias:** HTML, CSS, JavaScript  
-
+[Confira](https://marinabulhosa.github.io/precificadorSabore/)    
       
 ### Radar de Vagas
 Um fluxo no n8n que lê meus e-mails de alerta de vagas, avalia cada oportunidade com IA e me avisa só sobre as que combinam com o meu perfil.      
-**Tecnologias:** n8n, Gemini API, Gmail, Google Sheets, Telegram Bot, JavaScript    
+**Tecnologias:** n8n, Gemini API, Gmail, Google Sheets, Telegram Bot, JavaScript         
+[Confira](https://github.com/marinabulhosa/RadarVagas)        
 
       
 ### Voz do Cliente
 Dashboard que transforma milhares de avaliações de restaurantes em decisões, com sentimento, categoria e plano de ação.      
 **Tecnologias:** Python, IA, Dashboard    
+[Confira](https://github.com/marinabulhosa/VozDoCliente)      
 
       
 ---
